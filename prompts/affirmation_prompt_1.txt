@@ -1,0 +1,3 @@
+Prompt: Generate a culturally sensitive, heart-centered affirmation for someone who is feeling {mood}.
+Tone: Empowering, calm, and uplifting.
+Language: English. Add option for Swahili later.
